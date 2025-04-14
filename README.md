@@ -1,1 +1,2 @@
-Finetuning of a gemma model to retrieve car part references
+# Llm testing
+This repo contains tests and evaluation related to llms.

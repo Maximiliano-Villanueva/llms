@@ -1,0 +1,1 @@
+Finetuning of a gemma model to retrieve car part references
